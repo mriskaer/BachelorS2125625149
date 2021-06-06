@@ -4,21 +4,20 @@ The program has been developed as part of our bachelor project on machine learni
 
 To run the code it is necessary to import the following libraries:
 
-dash
-dash_html_components
-dash_core_components
-dash_bootstrap_components
-pandas
-plotly.express
-sklearn.linear_model
-matplotlib.pyplot
-seaborn
-sklearn.ensemble
-numpy 
-sklearn.tree
-scipy
-graphviz
-lime
+Numpy
+Pandas
+Plotly
+Dash
+JSON
+MatPlotLib
+Seaborn
+Scikit-learn
+Graphviz
+SciPy
+OS
+RANDOM
+LIME
+PIL
 
 Furthermore to generate the graphviz elements graphviz should be installed on the computer.
 
