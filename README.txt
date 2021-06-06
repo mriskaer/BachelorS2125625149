@@ -19,10 +19,14 @@ RANDOM
 LIME
 PIL
 
-Furthermore to generate the graphviz elements graphviz should be installed on the computer.
+Furthermore to generate the graphviz elements, graphviz should be installed on the computer.
 
 Whatever dataset the user wants to use can be inserted in the Datasets folder, and from there the dataset can be cleaned using the methods from the DataClean class.
 
 In the dashboard the ML-classes are called, to set the settings for these please navigate to the DashboardController class.
 
-When the code is run it can take a while before the dashboard is live, this is due to the pictures the program generates. When using a dataset of about 2000 lines it takes us 1-2 minutes to launch the dashboard.
+When the code is run, it can take a while before the dashboard is live. This is due to the pictures the program generates. When using a dataset of about 2000 lines, it takes us 1-2 minutes to launch the dashboard.
+
+
+The program is meant to be used with the abovementioned programs and imports. In addition, we will point out that the explainable models can be misinterpretted, and renounce all responsibility of potential misuse. 
+
