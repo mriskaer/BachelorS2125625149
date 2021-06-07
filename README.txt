@@ -26,3 +26,5 @@ Whatever dataset the user wants to use can be inserted in the Datasets folder, a
 In the dashboard the ML-classes are called, to set the settings for these please navigate to the DashboardController class.
 
 When the code is run it can take a while before the dashboard is live, this is due to the pictures the program generates. When using a dataset of about 2000 lines it takes us 1-2 minutes to launch the dashboard.
+
+It is not possible to run this code directly from github, since the datasets are not included in the upload. 
