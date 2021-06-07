@@ -21,7 +21,7 @@ PIL
 
 Furthermore to generate the graphviz elements graphviz should be installed on the computer.
 
-Whatever dataset the user wants to use can be inserted in the Datasets folder, and from there the dataset can be cleaned using the methods from the DataClean class.
+Whatever dataset the user wants to use can be inserted in a Datasets folder, and from there the dataset can be cleaned using the methods from the DataClean class.
 
 In the dashboard the ML-classes are called, to set the settings for these please navigate to the DashboardController class.
 
