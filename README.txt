@@ -27,4 +27,7 @@ In the dashboard the ML-classes are called, to set the settings for these please
 
 When the code is run it can take a while before the dashboard is live, this is due to the pictures the program generates. When using a dataset of about 2000 lines it takes us 1-2 minutes to launch the dashboard.
 
+The program is meant to be used with the above mentioned programs and imports. In addition, we will point out that the explainable models can be misinterpretted, and renounce all responsibility of potential misuse.
+
 It is not possible to run this code directly from github, since the datasets are not included in the upload. 
+
